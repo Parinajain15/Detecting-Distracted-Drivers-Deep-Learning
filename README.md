@@ -156,4 +156,4 @@ jupyter notebook
 
 ## Author
 
-Developed by :contentReference[oaicite:1]{index=1}
+Developed by [Parina Jain](https://github.com/Parinajain15)
